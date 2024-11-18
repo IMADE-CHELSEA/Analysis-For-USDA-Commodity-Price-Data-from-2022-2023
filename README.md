@@ -71,6 +71,7 @@ The analysis focuses on average prices by commodity across quarters to identify 
 	•	Price Increases: Commodities with significant YoY price increases (e.g., blueberries, Brussels sprouts, celery) may indicate growth in consumer demand or reduced supply availability.
 	•	Price Decreases: Notable decreases, especially in Q4 for various lettuce types, highlight items that may have experienced market saturation or increased competition. A comparison of the YoY changes in tomato prices showed a decline of --8.45 % showing a decrease in tomatoes prices in the year 2023 compared to the previous year
 <img width="194" alt="image" src="https://github.com/user-attachments/assets/969e064b-f093-4f34-be2b-4e64dee3f795">
+
 ![image](https://github.com/user-attachments/assets/e7025289-a5ed-4ebe-93c1-8983b209168a)
 
 
@@ -107,6 +108,7 @@ RECOMMENDATIONS
 Conclusion: Analysis of USDA Commodity Price Data (2022-2023)
 The USDA commodity price data analysis for 2022 and 2023 provides significant insights into the pricing trends, market fluctuations, and commodity-specific behaviors that shape the agricultural market. Using Power BI, we have transformed the raw data into meaningful visualizations that offer high-level trends and granular insights into the dynamics of various commodities. The data reveals significant seasonal and market-driven fluctuations in commodity pricing, particularly in high-demand products. Implementing targeted sourcing and inventory strategies based on these insights can help manage costs more effectively and ensure supply chain stability. 
 ![image](https://github.com/user-attachments/assets/524973e4-208a-4707-81cc-32f0eea08b19)
+
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/75dd05a8-4e39-4870-9d53-7309c8e2f548">
 
 
